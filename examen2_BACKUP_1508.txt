@@ -3,4 +3,3 @@ agregando datos en main
 =======
 Cambios en la rama feature
 >>>>>>> feature/nueva-funcionalidad
-otros cambios en la rama main
